@@ -1,4 +1,4 @@
-# SEG 4105, Tutorial 1
+# SEG 4105: Tutorial 1 by Marco Vethanayagam, 300121798
 
 ## Brainstorming 
 
