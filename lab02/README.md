@@ -11,11 +11,11 @@
 # Lab 2
 
 ## To-Do List
-[x] Go gym
-[x] Get groceries
-[x] Vacuum Room
-[x] Find iPhone 15 Pro Case
-[] Get CS2 Rank
+- [x] Go gym
+- [x] Get groceries
+- [x] Vacuum Room
+- [x] Find iPhone 15 Pro Case
+- [] Get CS2 Rank
 
 ## Dinner List
 # Appetizer
