@@ -18,18 +18,18 @@
 - [ ] Get CS2 Rank
 
 ## Dinner List
-# Appetizer
+### Appetizer
 1. Fruit Charcuterie Board
 2. Spinach Artichoke Dip
 3. Fried Proscuitto Tortellini
 
-# Main Course
+### Main Course
 1. Beef Wellington
 2. Ratatouille
 
-# Dessert
+### Dessert
 1. Creme Brulee
 
-# Drinks
+### Drinks
 1. Red Wine
 2. White Wine
