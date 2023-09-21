@@ -13,9 +13,9 @@
 ## To-Do List
 - [x] Go gym
 - [x] Get Groceries
-- [x] Vacuum Room
+- [ ] Vacuum Room
 - [x] Finish Lab
-- [] Get CS2 Rank
+- [ ] Get CS2 Rank
 
 ## Dinner List
 # Appetizer
