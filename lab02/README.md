@@ -12,9 +12,9 @@
 
 ## To-Do List
 - [x] Go gym
-- [x] Get groceries
+- [x] Get Groceries
 - [x] Vacuum Room
-- [x] Find iPhone 15 Pro Case
+- [x] Finish Lab
 - [] Get CS2 Rank
 
 ## Dinner List
