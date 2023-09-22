@@ -5,7 +5,7 @@
 | Course | SEG 4105 |
 | Date | Fall 2023 |
 | Student | Marco Vethanayagam, mveth103@uottawa.ca |
-| TA | |
+| TA | Shabnam Hassaniahari, shass126@uottawa.ca <br> Ali Mirferdos , smirf045@uottawa.ca| 
 | Team | Marco Vethanayagam 300121798 <br>|
 
 # Lab 2
