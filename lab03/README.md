@@ -11,7 +11,7 @@
 # Lab 3/Deliverable 1
 
 ### Fat Marker Sketch
-![image](https://github.com/Macomatic/seg4105_playground/lab3/fat_marker_sketch.png)
+<img src="fat_marker_sketch.png">
 
 ### Problem
 Using a computer in the modern age can be daunting considering all the different types of inputs and shortcuts that exist. It becomes an even harder challenge when considering those with accessibility needs. The current landscape of computer peripherals is that one needs to seek out specialized products if one has accessibility needs. This is because most modern, mass-created computer peripherals have no accessibility functionality attributed to the minuscule population who would truly require it. Our capstone product aims to solve this issue by creating a mouse attachment that can be used with any mouse and can meet accessibility needs. With the software functionality created, our current problem is that the hardware we are using for the mouse attachment product has no true way of being mounted to a mouse. 
