@@ -10,5 +10,8 @@
 
 # Lab 4
 
+### Feature
+The feature that I will be working on during the six-week cycle is a 3D attachment that can house our Pico Pi without hindering its functionality, can attach to any mouse with ease, and can be repositioned and removed whenever desired.
+
 ### Fat marker sketch
 <img src="fat_marker_sketch.png">
