@@ -41,4 +41,21 @@
 - Keeping the Slate Clean: each new cycle is a new slate so it's important not to work about the past but more on the present
 
 ## Chapter 9: Place your bets
-- 
+- Expectations are set for what happens during the six-week cycle
+- Adding features to an existing product requires the standard Shape Up Process
+- 3 Phases in the case of New Products
+  - R&D Mode
+    - Hard to reliably shape for a new product
+    - Rather than betting on a pitch, we bet the time on spiking some key pieces of the product
+    - Not expected to ship anything, the goal is to have some UI/code committed as the foundation for work
+    - R&D just to figure out what's viable
+  - Production Mode
+    - Where important architectural decision are settled
+    - Senior team brings more people to help to work in formal cycles and clear-cut shaping, betting, and building phases
+    - Shaping is deliberate again
+    - Team that builds is not limited to senior individuals
+    - Shipping is the goal, not spiking
+  - Cleanup Mode
+    - There's no shaping. The cycle is closer in spirit to the "bug smash"
+    - There aren't clear boundaries
+    - Work is "shipped"     
