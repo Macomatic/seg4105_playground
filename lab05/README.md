@@ -12,5 +12,5 @@
 
 ## Tools Used
 
-# Discord: Communication, Schedule meeting, Meeting
-# Commenting on Pitches: Github Readme 
+### Discord: Communication, Schedule meeting, Meeting
+### Commenting on Pitches: [Github Readme](https://github.com/Macomatic/seg4105_playground/blob/main/tut05/README.md)
