@@ -71,11 +71,11 @@
   - Electron is a good solution since we can use our web app react code in it
   - OS compatibility works well with our client who uses both macOS and Windows
   - UI implementation will be easy
-  - Helps create enhanced hardware functionality through use of USB-A connections and potentially bluetooth
+  - Helps create enhanced hardware functionality through the use of USB-A connections and potentially Bluetooth
   - New features (Overlays) can be explored 
 - Rabbit Holes
   - Valid rabbit hole; doesn't make sense to switch from TypeScript to JavaScript at this point
-  It doesn't make sense to make massive UI differences between web app and desktop app
+  - It doesn't make sense to make massive UI differences between web app and desktop app
   - Profile's page without authentication should be explored and discussed
 - No Gos
   - Valid No Gos
@@ -87,6 +87,24 @@
   - Rabbit Holes/No Gos help restrict scope to ensure redundancies in Electron are not included (e.g. Electron features we don't need)
 
 ### Dennis' Pitch (NOT IN CAPSTONE GROUP)
+- Problem
+  - For the game, it makes sense that a hierarchy of importance is essential to handle certain interactions 
+- Appetite
+  - Since it's a core feature, 6 weeks seems viable
+  - Team of 1 for a 6-week time allocation makes sense
+  - Scope is somewhat concerning as not for sure if all that time is needed for what is worded to be a bug
+- Solution
+  - Priority list is a good solution
+  - Handles which comes first
+  - Only 2 entities at a time clears the clutter of redundant combatants 
+- Rabbit Holes
+  - None 
+- No Gos
+  - Valid to handle bugs after 6-week time allocation 
+- Final thoughts
+  - Seems like a good thing to work on
+  - Not entirely sure about its complexity as this isn't our group's project
+  - Hard to gauge validity as the pitch is worded as if it is a bug rather than a new feature 
 
 
 ## The Bet
