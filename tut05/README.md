@@ -112,5 +112,8 @@
 - We didn't choose my 3D Modelling Pitch as the scope of what it intended to achieve did not meet the time allocation provided. With a 4-member team working for uninterrupted 6-weeks, the process of producing said feature would be done too quickly, making it an unviable pitch for the current cycle. This could be something we tackle as a personal ticket rather than a pitch.
 - We did not choose Michael's Profile pitch since its scope did not make sense for the expected time. The pitch was not something the entire team could work on and it was more akin to a bug ticket than a pitch.
 - As a result of The Betting Table, the winning pitch was Hong Yue's Electron Desktop App. The main reason for this is because its scope and what it attempts to solve are important for our project and viable within the allocated time. The limitation of solely using a web application is that connection to the hardware is less secure and efficient. There also is no capability to create a desktop overlay for profile switching with a web app; this was one of the client's requirements and can only achieved with the solution identified in this pitch. Furthermore, the scope of the solution can be achieved within the 6-week allocation for our team size, furthering the importance of this pitch.
+- Dennis' pitch is something we couldn't vote for since it wasn't related to our capstone since he isn't in our group
 
 ## The Kick Off
+![image](https://github.com/Macomatic/seg4105_playground/assets/29697062/58082500-6362-4629-8926-b210ad2fa1a3)
+
