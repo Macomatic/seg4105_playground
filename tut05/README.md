@@ -115,5 +115,5 @@
 - Dennis' pitch is something we couldn't vote for since it wasn't related to our capstone since he isn't in our group
 
 ## The Kick Off
-![image](https://github.com/Macomatic/seg4105_playground/assets/29697062/58082500-6362-4629-8926-b210ad2fa1a3)
+<img src="kickoff pic.png">
 
