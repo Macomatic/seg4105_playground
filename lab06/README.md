@@ -32,8 +32,14 @@ In relation to this scope, there are three main features:
  
 ## [Hill Charts](https://3.basecamp.com/5682131/buckets/34775393/todosets/6656014273)
 
-### Chart
+### Original Chart
 <img src="hillcharts.png">
+
+### Chart (1/3)
+<img src="hillchart_1done.png">
+
+### Chart (3/3)
+<img src="hillchart_3done.png">
 
 ### Tasks
 <img src="hillchart_tasks.png">
