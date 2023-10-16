@@ -28,4 +28,12 @@ In relation to this scope, there are three main features:
   - Pre-existing auth endpoints being added to Electron
 - Integrate profiles into the desktop app
   - Pre-existing profile endpoints being added to Electron
-  - New ffunctionality connecting profiles to overlays  
+  - New ffunctionality connecting profiles to overlays
+ 
+## [Hill Charts](https://3.basecamp.com/5682131/buckets/34775393/todosets/6656014273)
+
+### Chart
+<img src="hillchart.png">
+
+### Tasks
+<img src="hillchart_tasks.png">
