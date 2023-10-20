@@ -31,7 +31,16 @@ In relation to this scope, there are three main features:
   - New ffunctionality connecting profiles to overlays
  
 ## [Hill Charts](https://3.basecamp.com/5682131/buckets/34775393/todosets/6656014273)
+## Scopes
+### Original Chart
 
+### Chart (1/3)
+
+### Chart (3/3)
+
+### Sub-Tasks
+
+## Tasks
 ### Original Chart
 <img src="hillcharts.png">
 
@@ -41,5 +50,5 @@ In relation to this scope, there are three main features:
 ### Chart (3/3)
 <img src="hillchart_3done.png">
 
-### Tasks
+### Sub-Tasks
 <img src="hillchart_tasks.png">
