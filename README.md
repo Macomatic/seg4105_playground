@@ -29,20 +29,20 @@
     - Sprint Retrospective
  - Scrum Team consists of the following roles
     - Product Owner
-     - Responsible for maximizing the value of the product
-     - Sole person responsible for managing Product Backlog
-     - Orders items in backlog to best achieve goals
-     - Ensuring backlog is visible and transparent
+       - Responsible for maximizing the value of the product
+       - Sole person responsible for managing Product Backlog
+       - Orders items in backlog to best achieve goals
+       - Ensuring backlog is visible and transparent
     - Development Team
-     - Consists of professionals who do the work of delivering a product at the end
-     - Self-organizing
-     - Cross-functional teams
-     - No titles for development team members
-     - no sub-teams in the development team
-     - Team size is small enough to be nimble and complete enough work
+       - Consists of professionals who do the work of delivering a product at the end
+       - Self-organizing
+       - Cross-functional teams
+       - No titles for development team members
+       - no sub-teams in the development team
+       - Team size is small enough to be nimble and complete enough work
     - Scrum Master
-     - Responsible for promoting and supporting Scrum
-     - Helps Product Owner, Development Team, and Organization
+       - Responsible for promoting and supporting Scrum
+       - Helps Product Owner, Development Team, and Organization
   - Daily Scrum
    - 15-minute event for the development team
    - Development team plans work for the next 24 hours
