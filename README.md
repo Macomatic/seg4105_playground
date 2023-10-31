@@ -44,24 +44,24 @@
        - Responsible for promoting and supporting Scrum
        - Helps Product Owner, Development Team, and Organization
   - Daily Scrum
-   - 15-minute event for the development team
-   - Development team plans work for the next 24 hours
-   - Held at the same time and place to reduce complexity
-   - Daily scrum used to inspect progress toward Sprint Goal
-   - Structure is set by the Development Team
-   - Example of questions that can be used during the meeting
-    - What did I do yesterday that helped the Development Team meet the Sprint Goal?
-    - What will I do today to help the Development Team meet the Sprint Goal?
-    - Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?
-   - The Development Team meets immediately after the daily scrum for discussions
-   - Scrum master ensures the team has the meeting, but the team is responsible for conducting the scrum
-   - Daily scrum is an internal meeting
-   - Daily scrums:
-    - Improve Communication
-    - Eliminate other meetings
-    - Identify impediments
-    - highlight and promote quick decision-making
-    - Improve the Development Team's level of knowledge
+     - 15-minute event for the development team
+     - Development team plans work for the next 24 hours
+     - Held at the same time and place to reduce complexity
+     - Daily scrum used to inspect progress toward Sprint Goal
+     - Structure is set by the Development Team
+     - Example of questions that can be used during the meeting
+        - What did I do yesterday that helped the Development Team meet the Sprint Goal?
+        - What will I do today to help the Development Team meet the Sprint Goal?
+        - Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?
+     - The Development Team meets immediately after the daily scrum for discussions
+     - Scrum master ensures the team has the meeting, but the team is responsible for conducting the scrum
+     - Daily scrum is an internal meeting
+     - Daily scrums:
+        - Improve Communication
+        - Eliminate other meetings
+        - Identify impediments
+        - highlight and promote quick decision-making
+        - Improve the Development Team's level of knowledge
 
 ## Chapter 13: Show Progress
 - Progress is sometimes hard to see
