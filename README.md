@@ -17,11 +17,11 @@
 - Scrum was initially developed in the early 1990s for managing/developing products
 - Used to develop software, hardware, embedded software, etc.
 - Founded on the empirical process control theory
- - Employs an iterative, incremental approach to optimize predictability and control risk
+  - Employs an iterative, incremental approach to optimize predictability and control risk
 - Three pillars upload every implementation of the empirical process
- - Transparency: significant aspects of the process must be visible to those responsible for the outcome
- - Inspection: Users frequently inspect Scrum artifacts and progress toward a Sprint Goal to detect undesirable variances
- - Adaptation: If an inspector determines that one or more aspects of a process deviate outside acceptable limits and that the resulting product will be unacceptable, the process or the material being processed must be adjusted
+  - Transparency: significant aspects of the process must be visible to those responsible for the outcome
+  - Inspection: Users frequently inspect Scrum artifacts and progress toward a Sprint Goal to detect undesirable variances
+  - Adaptation: If an inspector determines that one or more aspects of a process deviate outside acceptable limits and that the resulting product will be unacceptable, the process or the material being processed must be adjusted
  - Scrum prescribes four formal events
   - Sprint planning
   - Daily Scrum
