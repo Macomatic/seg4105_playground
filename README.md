@@ -53,7 +53,7 @@
   - What did I do yesterday that helped the Development Team meet the Sprint Goal?
   - What will I do today to help the Development Team meet the Sprint Goal?
   - Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?
- - Development Team meet immediately after the daily scrum for discussions
+ - The Development Team meets immediately after the daily scrum for discussions
  - Scrum master ensures the team has the meeting, but the team is responsible for conducting the scrum
  - Daily scrum is an internal meeting
  - Daily scrums:
@@ -61,5 +61,38 @@
   - Eliminate other meetings
   - Identify impediments
   - highlight and promote quick decision-making
-  - Improve Development Team's level of knowledge
+  - Improve the Development Team's level of knowledge
+
+## Chapter 13: Show Progress
+- Progress is sometimes hard to see
+- Managers do not want to nag and always ask
+- Sometimes there are no tasks left to finish, but that doesn't necessarily mean everything is done
+ - Scope is predefined early
+ - What if tasks within the scope/to achieve a goal are not created?
+ - False illusion of completion when tasks aren't created for certain important milestones
+ - ![image](https://github.com/Macomatic/seg4105_playground/assets/29697062/68b693c6-4ed3-43ee-9d75-60673842662f)
+- Estimates don't show uncertainty
+ - If we estimate a task and have done a similar/the same task before, its estimate is very accurate
+ - If we estimate a task that is completely new, its estimate has a higher degree of uncertainty
+ - Estimates don't display the level of uncertainty associated with it
+- Work is like a hill
+ - The uphill part is figuring out what to do; harder since it takes a lot of thinking
+ - Apex is where we have a concrete idea of what needs to be done and how to do it
+ - The downhill part is getting the work done; easier since we are doing something known
+- Hill + Scopes
+ - Mapping scopes on a hill is an easy way to see progress in a meaningful way
+ - Linear scope mapping isn't accurate as it doesn't depict the early difficulty correctly
+ - Helps to determine progress without asking/nagging
+ - Basechart Hillcharts allow for state comparisons to show how the work is moving
+ - Visually displays if someone is "stuck" based on the scope's position and lack of change in position
+ - Helps to identify when a scope needs to be refactored based on its progress and movement on the chart; does it need to be broken down?
+ - We can break down scopes into their tasks and also map them on a hill chart to show even more detail on progress/blockers
+- Backtracking
+ - Common to see scope reach apex, only for it to move back down the hill
+ - Comes from uncovering an unexpected unknown
+ - Often because somebody did the uphill work with their head instead of their hands, e.g. I'll just use an API
+ - Hill chart is good because it lets us know the right sequence of working on stuff
+ - Hard work of figuring out what needs to be down early so that the end is easy
+ - Similar to the journalist's concept of inverted pyramid
+  
  
