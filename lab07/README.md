@@ -10,8 +10,21 @@
 
 # Lab 7: Stand Up
 
-## Stand-up notes
+## My progress (Stand-up notes)
+- Started working on Overlay endpoints
+  - New functionality attributed to the creation of the desktop app
+  - Overlay endpoint for adding a profile to an overlay set
+  - Overlay endpoint for removing a profile to an overlay set
+  - Overlay endpoint for getting an overlay set
+  - Overlay endpoint for deleting an overlay set
+-  Work on new unit tests for overlay endpoints
+-  Work on integration tests for overlay and profile endpoints
+-  Changing pre-existing endpoints to work with new schema and desktop structure
 
-## Reviewed other stand-up notes
+## Reviewed other stand-ups notes
+- Hong Yue
+    - Test
 
 ## Discussion/Feedback from notes
+
+## Hill Charts
