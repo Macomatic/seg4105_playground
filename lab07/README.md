@@ -21,10 +21,32 @@
 -  Work on integration tests for overlay and profile endpoints
 -  Changing pre-existing endpoints to work with new schema and desktop structure
 
-## Reviewed other stand-ups notes
+## Reviewed other stand-up notes
 - Hong Yue
-    - Test
+    - Created base files for electron
+    - Fixed routing issues to accommodate for desktop app
+    - Styling issues with sidebar for electron fix; scrolling would cause it to disappear
+- Chetan
+    - Added command input form
+    - User can enter custom commands for hotkeys
+    - Webpage created for that; easily reproducible in electron
+- Michael
+    - Finished Selenium tests
+ 
 
 ## Discussion/Feedback from notes
+- Progress was slow due to reading week
+- Will ramp up for this week
+- More work directly on the Electron app
+- Looking into deployment for web app
+- Rounding out final feature to create fully-functional, aesthetic prototype
+- Next meeting: Nov 9, 2023 @ 5:00 PM
 
 ## Hill Charts
+### Marco's Chart
+![image](https://github.com/Macomatic/seg4105_playground/assets/29697062/1530c06b-6b33-4a3e-9cb2-dd21976cd21e)
+
+### Overall Progress Chart
+![image](https://github.com/Macomatic/seg4105_playground/assets/29697062/9c671619-14f2-41f2-b5af-f0c40adae45e)
+
+
