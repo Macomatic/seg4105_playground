@@ -43,10 +43,16 @@
 - Next meeting: Nov 9, 2023 @ 5:00 PM
 
 ## Hill Charts
-### Marco's Chart
+### Marco's Chart Before
+![image](https://github.com/Macomatic/seg4105_playground/assets/29697062/9549d691-11a2-475a-a27b-d740c4c0624f)
+
+### Marco's Chart After
 ![image](https://github.com/Macomatic/seg4105_playground/assets/29697062/1530c06b-6b33-4a3e-9cb2-dd21976cd21e)
 
-### Overall Progress Chart
+### Overall Progress Chart Before
+![image](https://github.com/Macomatic/seg4105_playground/assets/29697062/7e2b2e28-1c74-401f-be10-abe0e8974219)
+
+### Overall Progress Chart After
 ![image](https://github.com/Macomatic/seg4105_playground/assets/29697062/9c671619-14f2-41f2-b5af-f0c40adae45e)
 
 
