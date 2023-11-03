@@ -61,9 +61,12 @@
         - Easy to deploy
         - Makes sense for our 1-client app  
 - Rounding out final feature to create fully-functional, aesthetic prototype
+
+## Schedule
 - Next meeting: Nov 9, 2023 @ 5:00 PM
     - Stand-up
     - Progress on desktop app
+    - More endpoint behavior and testing
     - Working towards final product 
 
 ## Hill Charts
