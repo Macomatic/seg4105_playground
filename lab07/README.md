@@ -26,21 +26,45 @@
     - Created base files for electron
     - Fixed routing issues to accommodate for desktop app
     - Styling issues with sidebar for electron fix; scrolling would cause it to disappear
+    - Will work on more electron setup
+        - Carry over existing web app functionality
+        - Ensure functionality without new issues
+        - Allow for the integration of new feature (profile inputs, overlay endpoints)  
 - Chetan
     - Added command input form
     - User can enter custom commands for hotkeys
     - Webpage created for that; easily reproducible in electron
+    - Will work on new form of connectivity
+        - Hardware connectivity directly to PC
+        - Issues with full, safe access through web app
+        - Electron will allow better connection
+        - Ability to use bluetooth 
 - Michael
     - Finished Selenium tests
+    - Looking to integrate fully with CircleCI pipeline
+    - Profiles within Electron desktop app next
+        - Add existing profile functionality
+        - Save to same endpoint without web app functionality
+        - Work towards full profile functionality ALONGSIDE hardware
  
 
 ## Discussion/Feedback from notes
 - Progress was slow due to reading week
-- Will ramp up for this week
+- Progress was also slow due to assignment/midterms during this time period
+- Will ramp up for this week as team members are more free
 - More work directly on the Electron app
+    - Carrying over existing functionaliy without breaking it
+    - Adding pages for new functionality (overlays) 
 - Looking into deployment for web app
+    - Heroku web deployment
+        - Cheap (User Requirement)
+        - Easy to deploy
+        - Makes sense for our 1-client app  
 - Rounding out final feature to create fully-functional, aesthetic prototype
 - Next meeting: Nov 9, 2023 @ 5:00 PM
+    - Stand-up
+    - Progress on desktop app
+    - Working towards final product 
 
 ## Hill Charts
 ### Marco's Chart Before
