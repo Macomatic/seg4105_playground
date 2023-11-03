@@ -80,3 +80,22 @@
 ![image](https://github.com/Macomatic/seg4105_playground/assets/29697062/9c671619-14f2-41f2-b5af-f0c40adae45e)
 
 
+## Meeting Minutes (Same as in Minutes.md in Capstoen Repo)
+
+## November 2, 2023 2:30 - 3:30 PM
+
+### Participants
+
+Michael Bosciglio, Chetan Mandur, Marco Vethanayagam, Hong Yue Wang
+
+### Purpose
+Stand-up
+
+### Topics discussed
+- Discussed our work progress, what we will work on and any blockers
+- Marco: overlay endpoints, integration between profile and overlay endpoint, integration testing, unit testing new endpoints
+- Chetan: Command input form
+- Hong: base files electron, routing, styling issue with sidebar, app flow
+- Michael: more Cypress tests
+
+
